@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="stylesheet" href="css/style.css">
         <Title> Home</Title>
     </head>
     <body>
@@ -10,9 +11,9 @@
         <div class="Home_page_nav">
             <nav>
                 <ul>
-                    <a href="#"> Home </a>
-                    <a href="#"> Public </>
-                    <a href="#"> Private </a>
+                    <a href="#home"> Home </a>
+                    <a href="#public"> Public </a>
+                    <a href="#private"> Private </a>
                 </ul>
             </nav>
         </div>

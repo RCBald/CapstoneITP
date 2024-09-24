@@ -10,9 +10,9 @@
         <div class="Private_page_nav">
             <nav>
                 <ul>
-                    <a href="#"> Home </a>
-                    <a href="#"> Public </a>
-                    <a href="#"> Private </a>
+                    <a href="#home"> Home </a>
+                    <a href="#public"> Public </a>
+                    <a href="#private"> Private </a>
                 </ul>
             </nav>
         </div>

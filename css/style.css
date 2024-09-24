@@ -1,0 +1,9 @@
+.Home_page_nav{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.Home_page_nav:hover{
+    background-color: cadetblue;
+    color: white;
+}
