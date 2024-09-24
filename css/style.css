@@ -10,3 +10,26 @@
     color: white;
 }
 
+.Public_page_nav{
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+    padding: 10px;
+    
+}
+.Public_page_nav:hover{
+    background-color: cadetblue;
+    color: white;
+}
+
+.Private_page_nav{
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+    padding: 10px;
+    
+}
+.Private_page_nav:hover{
+    background-color: cadetblue;
+    color: white;
+}
