@@ -8,14 +8,12 @@
         <div class="Private_title">
             <h1> Private Page </h1>
         </div>
-        <div class="Private_page_nav">
-            <nav>
-                <ul>
-                    <a href="#home.php"> Home </a>
-                    <a href="#public.php"> Public </a>
-                    <a href="#private.php"> Private </a>
-                </ul>
-            </nav>
-        </div>
+        <nav>
+            <ul class="Private_page_nav">
+                    <li><a class="active" href="home.php">Home</a></li>
+                    <li><a href="public.php">Public</a></li>
+                    <li><a href="private.php">Private</a></li>   
+            </ul>
+        </nav>
     </body>
 </html>
