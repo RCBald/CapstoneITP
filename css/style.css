@@ -37,4 +37,9 @@
     width: 100%;
     border-collapse: collapse;
  }
+ .public_table th{
+    padding: 12px;
+    text-align: left;
+    
+ }
  
