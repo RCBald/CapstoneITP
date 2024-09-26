@@ -2,6 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="css/style.css">
+        <script src="js/site.js" defer></script>
         <Title> Public </Title>
     </head>
     <body>
@@ -12,7 +13,8 @@
             <ul class="Private_page_nav">
                     <li><a class="active" href="home.php">Home</a></li>
                     <li><a href="public.php">Public</a></li>
-                    <li><a href="private.php">Private</a></li>   
+                    <li><a href="private.php">Private</a></li>
+                    <li><button onclick="discount_button()">Discount Button</button></li>
             </ul>
         </nav>
     </body>
